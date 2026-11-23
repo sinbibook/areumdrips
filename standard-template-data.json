@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-20T05:59:10.676510505Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-23T05:52:55.409166896Z",
     "templateType": "trip_b",
     "propertyId": "a66baff9-4d09-474a-ab06-904fca0563da",
     "homepageId": "01a1a576-b39e-73dd-b52d-8466b7be376e"
@@ -22,8 +22,8 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전 연락 부탁드립니다.",
-    "usageGuide": "[공지사항]\n- SPA1, 4 객실은 저상 침대입니다.\n- SPA2, 3 객실은 일반 침대입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 방문객도 추가 요금 발생\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실 개별 테라스 바베큐 / 사계절 이용 가능한 프라이빗 개별 바베큐장)\n- 이용 요금: 2인 기준 20,000원 (추가 시 1인당 5,000원) (1박기준/현장결제)\n- 이용 시간: ~ 23:00\n- 신청 시간: 제한없음\n- 제공 구성: 숯, 그릴\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 객실 내 전기 그릴, 개인 버너, 개인 화로 절대 반입 금지\n※ 숯, 그릴 등 개인 지참 불가\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 10,000원 (1박기준/현장결제)\n- 제한 무게: 7kg 이하 중형견\n- 제한 마릿수: 객실당 2마리\n- 반려동물 허용 종류: 반려견만 가능 (반려묘 불가)\n※ 앵무새 가능 (이동장 필수)\n※ 인원 추가 및 애견 동반 시 미리 연락 부탁드립니다.\n※ 애견 용품 개인 지참\n※ 애견 스파 이용 불가\n※ 공격성 있는 견종/맹견 불가\n\n[스파]\n- 이용 객실: 4호 제외 전객실\n- 이용 시간: 17:00 ~ 23:00\n- 애견 입수 불가\n- 이용 요금: 1층 객실 (초대형 스파 / 최대 5인 가능) 1박 30,000원, 2박 50,000원 / 2층 객실 (대형 스파 / 최대 3인 가능) 1박 20,000원, 2박 30,000원 (1박기준/현장결제)\n- 입욕제 사용 불가\n※ 스파 이용 시 온수를 미리 준비해야 하므로 스파 이용 원하실 경우 미리 연락 부탁드립니다.\n※ 하절기(7월~8월)에는 미온수로 준비되며, 온수 필요 시 사전 문의\n※ 이용 전날 사전 신청 필수 (미 이용 시 추가 요금 없음)\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 전 객실 오락기 구비 완료 (무료)\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 편의점: 차량 약 7분 이내 거리\n- 베어스타운\n- 산정호수\n- 허브랜드\n- 운악산 자연휴양림\n- 천보산 자연휴양림\n- 아트밸리와 포천석\n\n[주차장]\n- 전기차 충전기 이용 불가",
-    "reservationGuide": "- SPA1, 4 객실은 저상 침대입니다.\n- SPA2, 3 객실은 일반 침대입니다.",
+    "usageGuide": "- SPA1, 4 객실은 저상 침대입니다.\n- SPA2, 3 객실은 일반 침대입니다.\n※ 아름드리4호 객실 현재 스파 수리중입니다. 이용에 참고 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 1인 10,000원\n(1박기준/현장결제)\n※ 방문객도 추가 요금 발생\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실 개별 테라스 바베큐 / 사계절 이용 가능한 프라이빗 개별 바베큐장)\n- 이용 요금: 2인 기준 20,000원 (추가 시 1인당 5,000원) (1박기준/현장결제)\n- 이용 시간: ~ 23:00\n- 신청 시간: 제한없음\n- 제공 구성: 숯, 그릴\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 객실 내 전기 그릴, 개인 버너, 개인 화로 절대 반입 금지\n※ 숯, 그릴 등 개인 지참 불가\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 10,000원 (1박기준/현장결제)\n- 제한 무게: 7kg 이하 중형견\n- 제한 마릿수: 객실당 2마리\n- 반려동물 허용 종류: 반려견만 가능 (반려묘 불가)\n※ 앵무새 가능 (이동장 필수)\n※ 인원 추가 및 애견 동반 시 미리 연락 부탁드립니다.\n※ 애견 용품 개인 지참\n※ 애견 스파 이용 불가\n※ 공격성 있는 견종/맹견 불가\n\n[스파]\n- 이용 객실: 4호 제외 전객실\n- 이용 시간: 17:00 ~ 23:00\n- 애견 입수 불가\n- 이용 요금: 1층 객실 (초대형 스파 / 최대 5인 가능) 1박 30,000원, 2박 50,000원 / 2층 객실 (대형 스파 / 최대 3인 가능) 1박 20,000원, 2박 30,000원 (1박기준/현장결제)\n- 입욕제 사용 불가\n※ 스파 이용 시 온수를 미리 준비해야 하므로 스파 이용 원하실 경우 미리 연락 부탁드립니다.\n※ 하절기(7월~8월)에는 미온수로 준비되며, 온수 필요 시 사전 문의\n※ 이용 전날 사전 신청 필수 (미 이용 시 추가 요금 없음)\n※ 아름드리4호 객실 현재 스파 수리중입니다. 이용에 참고 부탁드립니다.\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 전 객실 오락기 구비 완료 (무료)\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 편의점: 차량 약 7분 이내 거리\n- 베어스타운\n- 산정호수\n- 허브랜드\n- 운악산 자연휴양림\n- 천보산 자연휴양림\n- 아트밸리와 포천석\n\n[주차장]\n- 전기차 충전기 이용 불가",
+    "reservationGuide": "- SPA1, 4 객실은 저상 침대입니다.\n- SPA2, 3 객실은 일반 침대입니다.\n※ 아름드리4호 객실 현재 스파 수리중입니다. 이용에 참고 부탁드립니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "areumdrips.kr",
@@ -108,7 +108,7 @@
         "id": "ba44e3e2-3264-4844-a7ef-1ed0efa57635",
         "name": "스파",
         "description": "",
-        "usageGuide": "- 이용 객실: 4호 제외 전객실\n- 이용 시간: 17:00 ~ 23:00\n- 애견 입수 불가\n- 이용 요금: 1층 객실 (초대형 스파 / 최대 5인 가능) 1박 30,000원, 2박 50,000원 / 2층 객실 (대형 스파 / 최대 3인 가능) 1박 20,000원, 2박 30,000원 (1박기준/현장결제)\n- 입욕제 사용 불가\n※ 스파 이용 시 온수를 미리 준비해야 하므로 스파 이용 원하실 경우 미리 연락 부탁드립니다.\n※ 하절기(7월~8월)에는 미온수로 준비되며, 온수 필요 시 사전 문의\n※ 이용 전날 사전 신청 필수 (미 이용 시 추가 요금 없음)",
+        "usageGuide": "- 이용 객실: 4호 제외 전객실\n- 이용 시간: 17:00 ~ 23:00\n- 애견 입수 불가\n- 이용 요금: 1층 객실 (초대형 스파 / 최대 5인 가능) 1박 30,000원, 2박 50,000원 / 2층 객실 (대형 스파 / 최대 3인 가능) 1박 20,000원, 2박 30,000원 (1박기준/현장결제)\n- 입욕제 사용 불가\n※ 스파 이용 시 온수를 미리 준비해야 하므로 스파 이용 원하실 경우 미리 연락 부탁드립니다.\n※ 하절기(7월~8월)에는 미온수로 준비되며, 온수 필요 시 사전 문의\n※ 이용 전날 사전 신청 필수 (미 이용 시 추가 요금 없음)\n※ 아름드리4호 객실 현재 스파 수리중입니다. 이용에 참고 부탁드립니다.",
         "displayOrder": 1,
         "images": [
           {
@@ -1132,8 +1132,8 @@
         {
           "thumbnail": [
             {
-              "id": "01a18b4c-5af0-7c7c-b608-fbd219b0be86",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/01/24/oxshFSeqgNE5.jpg",
+              "id": "01a206f5-a57d-7b08-b686-7ef71e3a5791",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/brUlEhLxGWV3.jpg",
               "sortOrder": 1,
               "description": "",
               "isSelected": true,
@@ -1142,129 +1142,121 @@
           ],
           "interior": [
             {
-              "id": "01a18b4c-5af3-707d-9c65-0e06b99d8da5",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/brUlEhLxGWV3.jpg",
+              "id": "01a206f5-a599-76ca-a181-abd82ce1b436",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/QgMtJFuf1XH3.jpg",
               "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-7095-85db-5cfb1119de15",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/QgMtJFuf1XH3.jpg",
+              "id": "01a206f5-a599-7dfa-9316-68e6c7469411",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/Kpv1kjnDlubc.jpg",
               "sortOrder": 3,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-70bc-a42e-4f7412f27f84",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/Kpv1kjnDlubc.jpg",
+              "id": "01a206f5-a59a-7598-8d43-d04d18474d49",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/RU5uqiFybDKr.jpg",
               "sortOrder": 4,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-70e6-ba19-702bc81193b9",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/RU5uqiFybDKr.jpg",
+              "id": "01a206f5-a59a-7b06-90f2-b9645f3bb25e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/7EjQrGXflTce.jpg",
               "sortOrder": 5,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-7121-b26a-3b4793851bef",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/7EjQrGXflTce.jpg",
+              "id": "01a206f5-a59a-7d26-836d-25315a178cde",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/AyuV5gm9lJfp.jpg",
               "sortOrder": 6,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-7132-84e4-dec758c42fc7",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/AyuV5gm9lJfp.jpg",
+              "id": "01a206f5-a59b-7283-b282-dbc9e70f982a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/MZkm03pQ1UCF.jpg",
               "sortOrder": 7,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-716e-95ac-3f5d3d5eea34",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/MZkm03pQ1UCF.jpg",
+              "id": "01a206f5-a59b-7984-911f-bef2fc283353",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/UO84WF3q21Kh.jpg",
               "sortOrder": 8,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-717f-84a3-3470a35cdc12",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/UO84WF3q21Kh.jpg",
+              "id": "01a206f5-a59b-7e67-9143-16990e234b71",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/uOfcBjxAQK0V.jpg",
               "sortOrder": 9,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-71d0-ac73-11131139fb12",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/uOfcBjxAQK0V.jpg",
+              "id": "01a206f5-a59c-7265-85b5-41ef64b32393",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/qeCsKdv7MDWA.jpg",
               "sortOrder": 10,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-71e5-bffc-a928c622ec46",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/qeCsKdv7MDWA.jpg",
+              "id": "01a206f5-a59c-7436-9426-85f892079c0c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/PZLAxV0isqCG.jpg",
               "sortOrder": 11,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-721f-bab4-933ce4fcf401",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/PZLAxV0isqCG.jpg",
+              "id": "01a206f5-a59c-7a5b-8f73-f320f4a8c310",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/jPmf9g6yrnRV.jpg",
               "sortOrder": 12,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-724a-8b58-acf08e1b0868",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/jPmf9g6yrnRV.jpg",
+              "id": "01a206f5-a59c-7d96-bffb-da67b9080a4d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/0KgXOLSM3Ji9.jpg",
               "sortOrder": 13,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-7272-b304-a1fbf949e3f5",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/0KgXOLSM3Ji9.jpg",
+              "id": "01a206f5-a59d-770d-b7f4-c9e7e08ef1de",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/67ftr9MNcHlF.jpg",
               "sortOrder": 14,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-7284-b409-29ed5bb625c5",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/67ftr9MNcHlF.jpg",
+              "id": "01a206f5-a59d-7bca-a3df-e5139f8ed561",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/0KnXMi2OcJ46.jpg",
               "sortOrder": 15,
               "description": "",
               "isSelected": true,
               "blockId": null
             },
             {
-              "id": "01a18b4c-5af3-72aa-bfba-42b73ef142da",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/0KnXMi2OcJ46.jpg",
-              "sortOrder": 16,
-              "description": "",
-              "isSelected": true,
-              "blockId": null
-            },
-            {
-              "id": "01a18b4c-5af3-72d1-8c19-87519d91936c",
+              "id": "01a206f5-a59e-7251-bb97-460d0f0c05d0",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/iBxsHduZTAtE.jpg",
-              "sortOrder": 17,
+              "sortOrder": 16,
               "description": "",
               "isSelected": true,
               "blockId": null
