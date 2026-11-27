@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-23T05:53:11.173699223Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-27T08:37:21.054719605Z",
     "templateType": "trip_b",
     "propertyId": "a66baff9-4d09-474a-ab06-904fca0563da",
     "homepageId": "01a1a576-b39e-73dd-b52d-8466b7be376e"
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "c23d7cf3-8b77-4c24-94c0-6d66216822a5",
-      "name": "아름드리4(2층, 애견동반)",
+      "name": "아름드리4(2층, 애견동반, 스파 이용불가)",
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1+개별바비큐\r\n12평\r\nTV,가스레인지,개별바비큐,냉장고,드라이기,린스,바디워시,비데,에어컨,와이파이,전기밥솥,전자레인지,취사시설/도구,커피포트,타월,화장대,욕실용품,VOD",
       "roomInfo": "",
       "usageGuide": "원룸형: 침대룸 주방 화장실\r\n\r\n※ 해당객실은 SPA1과 같은 저상침대입니다(사진과 상이)\r\n※ 기준인원 외 추가비용은 현장결제 부탁드립니다.\r\n※최대인원을 초과한 입실이 불가합니다.\r\n\r\n[ 인 원 추 가 요 금 ] (1박기준)\r\n영유아 ~ 초등학생 1인 10,000원\r\n중학생 ~ 성인 1인 20,000원\r\n*방문객도 추가요금 발생\r\n\r\n[ 애 견 동 반 비 용 ] (1박기준)\r\n8kg 이하 중형견, 객실당 2마리만 가능\r\n1마리 20,000원 비용 발생(현장결제)\r\n※ 반려묘 입실불가\r\n\r\n[ 스 파 ]\r\n전 객실에 스파가 준비되어있습니다.\r\n추가 요금: \r\n-1층(초대형스파) 객실 1박 요금 3만원 / 2박 요금 5만원\r\n-2층(대형스파) 객실 1박 요금 2만원 / 2박 요금 3만원\r\n-이용시간: 입실후~ 밤12시까지\r\n※거품, 입욕제 사용 불가\r\n※애견 스파 이용불가\r\n※하절기(7월~8월)에는 미온수로 준비되며,온수 필요 시 사전 문의\r\n\r\n[좌식게임기]\r\n전 객실 좌식 게임기 구비 완료(무료)",
@@ -1132,7 +1132,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a206f5-a57d-7b08-b686-7ef71e3a5791",
+              "id": "01a21c26-a540-7a9d-9f28-8b1fa51875a1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/brUlEhLxGWV3.jpg",
               "sortOrder": 1,
               "description": "",
@@ -1142,7 +1142,7 @@
           ],
           "interior": [
             {
-              "id": "01a206f5-a599-76ca-a181-abd82ce1b436",
+              "id": "01a21c26-a541-7ac4-be34-16d54b93c0fe",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/QgMtJFuf1XH3.jpg",
               "sortOrder": 2,
               "description": "",
@@ -1150,7 +1150,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a599-7dfa-9316-68e6c7469411",
+              "id": "01a21c26-a541-7fe2-98f4-f195d78f6409",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/Kpv1kjnDlubc.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1158,7 +1158,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59a-7598-8d43-d04d18474d49",
+              "id": "01a21c26-a542-7502-bcc0-b901238950c3",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/RU5uqiFybDKr.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1166,7 +1166,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59a-7b06-90f2-b9645f3bb25e",
+              "id": "01a21c26-a542-7ad7-a96c-34d49148170c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/7EjQrGXflTce.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1174,7 +1174,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59a-7d26-836d-25315a178cde",
+              "id": "01a21c26-a542-7d87-907f-07302554a16c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/AyuV5gm9lJfp.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1182,7 +1182,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59b-7283-b282-dbc9e70f982a",
+              "id": "01a21c26-a543-727d-8568-af5e43f7294f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/MZkm03pQ1UCF.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1190,7 +1190,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59b-7984-911f-bef2fc283353",
+              "id": "01a21c26-a543-792c-a3f3-33801940aa61",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/UO84WF3q21Kh.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1198,7 +1198,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59b-7e67-9143-16990e234b71",
+              "id": "01a21c26-a544-7011-b946-c6e16545338e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/uOfcBjxAQK0V.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1206,7 +1206,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59c-7265-85b5-41ef64b32393",
+              "id": "01a21c26-a544-762f-83a5-f565bc52588e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/qeCsKdv7MDWA.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1214,7 +1214,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59c-7436-9426-85f892079c0c",
+              "id": "01a21c26-a544-780e-b4e4-6973a811d792",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/PZLAxV0isqCG.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1222,7 +1222,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59c-7a5b-8f73-f320f4a8c310",
+              "id": "01a21c26-a544-7e33-975f-e96919709c2f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/jPmf9g6yrnRV.jpg",
               "sortOrder": 12,
               "description": "",
@@ -1230,7 +1230,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59c-7d96-bffb-da67b9080a4d",
+              "id": "01a21c26-a545-70aa-95ff-cb9b43bc6cf8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/0KgXOLSM3Ji9.jpg",
               "sortOrder": 13,
               "description": "",
@@ -1238,7 +1238,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59d-770d-b7f4-c9e7e08ef1de",
+              "id": "01a21c26-a545-7927-a553-6201ff7396d4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/67ftr9MNcHlF.jpg",
               "sortOrder": 14,
               "description": "",
@@ -1246,7 +1246,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59d-7bca-a3df-e5139f8ed561",
+              "id": "01a21c26-a545-7e84-ae93-7a01f090fb21",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/0KnXMi2OcJ46.jpg",
               "sortOrder": 15,
               "description": "",
@@ -1254,7 +1254,7 @@
               "blockId": null
             },
             {
-              "id": "01a206f5-a59e-7251-bb97-460d0f0c05d0",
+              "id": "01a21c26-a546-748a-a97d-1ad910e24417",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2024/10/08/iBxsHduZTAtE.jpg",
               "sortOrder": 16,
               "description": "",
@@ -2106,7 +2106,6 @@
       "roomtypes": [
         {
           "id": "0463dbd3-afce-40c7-b2fc-f0813c59fec1",
-          "name": "SPA1(1층,제트스파, 애견동반)",
           "images": [
             {
               "id": "01a1a577-0219-73f2-8929-3933f145a6ad",
@@ -2321,7 +2320,6 @@
         },
         {
           "id": "92f947bd-f95f-4603-a9e0-5fe7976eca16",
-          "name": "SPA2(1층,제트스파, 애견동반)",
           "images": [
             {
               "id": "01a1a577-0340-7905-9f2e-80672b6fdcc1",
@@ -2527,7 +2525,6 @@
         },
         {
           "id": "5bdfcbc5-0e5b-44a4-9b57-6a6bd068b160",
-          "name": "SPA3(2층,제트스파, 애견동반)",
           "images": [
             {
               "id": "01a1a577-0424-7e4a-a417-7fee4f412626",
@@ -2769,7 +2766,6 @@
         },
         {
           "id": "c23d7cf3-8b77-4c24-94c0-6d66216822a5",
-          "name": "아름드리4(2층, 애견동반)",
           "images": [
             {
               "id": "01a1a577-0686-70a2-a452-1d2c2418cc6c",
